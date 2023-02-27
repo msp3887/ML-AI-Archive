@@ -1,5 +1,5 @@
 # ML/AI Posting Archive
-연구 및 업무에서 활용하기 위해서 2017년부터 머신러닝/AI 연구 SNS 포스팅을 수집한 Notion 페이지 입니다.
+연구 및 업무에서 활용하기 위해서 2017년부터 ML/AI 연구 SNS 포스팅을 수집한 Notion 페이지 입니다.
 * 예시 사진
 ![](https://github.com/msp3887/ML-AI-Posting-Archive/blob/main/example.png?raw=true)
 
