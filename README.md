@@ -17,8 +17,8 @@ ___
 - [1월~6월](https://charm-honeycrisp-c3c.notion.site/0d6c48d6249e4708acc62367ae2a4ead)
 ___
 ## 2020년
-- [7월~12월](notion.so/4f757b75e12945c9885d1b521be56208?v=63b65b2b8c79478e9b2284d43d8c06db)
-- [1월~6월](notion.so/ed7e36e8de9e4a258c4c62e8e2a68f59?v=1228bb539215409086b527a8fb438b77)
+- [7월~12월](https://charm-honeycrisp-c3c.notion.site/4f757b75e12945c9885d1b521be56208?v=63b65b2b8c79478e9b2284d43d8c06db)
+- [1월~6월](https://charm-honeycrisp-c3c.notion.site/ed7e36e8de9e4a258c4c62e8e2a68f59?v=1228bb539215409086b527a8fb438b77)
 ___
 ## 2019년
 - [7월~12월](https://charm-honeycrisp-c3c.notion.site/fc2edc4258ac4497892c4449f57664b9?v=cd7e00401f3948b98c05a10dcd7c82dd)
