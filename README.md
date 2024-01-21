@@ -5,6 +5,10 @@ Notion Database에 '게시글 링크/게시글 제목 요약/수집 년 월/Task
 * 예시 사진
 ![](https://github.com/msp3887/ML-AI-Posting-Archive/blob/main/example.png?raw=true)
 
+## 2024년
+- [1월~6월](https://charm-honeycrisp-c3c.notion.site/017a9188e046415cb8a43e9fae2dffde?v=473cfdd544904aff871afe995d7627a8&pvs=4)
+- 
+___
 ## 2023년
 - [1월~6월](https://charm-honeycrisp-c3c.notion.site/a34d886e8a3c499f8b568f031981df80)
 - [7월~12월](https://charm-honeycrisp-c3c.notion.site/20b6214e4f1b4514b4ec649768b5ffaf?v=cc89e26d3cb44d81b0da5008e31d0c32&pvs=4)
